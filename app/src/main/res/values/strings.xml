@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CKYC</string>
+    <string name="todo">TODO</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">Camera2</string>
+    <string name="capture_document">Capture document</string>
+    <string name="uk">uk</string>
+
+    <string name="capture">Capture</string>
+    <string name="face_recognition">Face recognition</string>
+    <string name="cameo_corporate_services_limited">Cameo corporate services limited</string>
+    <string name="ckyc_app">CKYC APP</string>
+    <string name="upload_kyc">Upload KYC</string>
+    <string name="take_selfie">Take selfie</string>
+    <string name="aadhar_card">Aadhar card</string>
+    <string name="driving_licence">Driving Licence</string>
+    <string name="pan_card">PAN Card</string>
+    <string name="optional">( Optional )</string>
+    <string name="enter_pan_card_no">Enter pan card no</string>
+    <string name="pan_card_no">Pan card no</string>
+    <string name="upload_now">Upload Now</string>
+</resources>
